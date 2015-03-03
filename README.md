@@ -6,3 +6,4 @@ There is an ability to choose the most suitable method between several methods o
 The program also includes means for analysis of anomaly detection methods.
 
 
+changes by newbranch
